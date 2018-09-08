@@ -1,0 +1,1 @@
+flip 修改为 fliplr 或 flipud, 分为上下或左右循环平移。
